@@ -1,0 +1,35 @@
+/* LEVEL 1a MENU UI */
+
+
+#menu {
+    position: fixed;
+    left: -110px;
+    top: 50px;
+    width: 100px;
+    padding: 5px;
+    background-color: blue;
+}
+
+#makeBG, #reset, #hide, #show {
+    width: 100%;
+}
+
+#open {
+    position: absolute;
+    width: 50px;
+    right: -50px;
+}
+
+#close {
+    position: absolute;
+    width: 50px;
+    right: -50px;
+}
+
+
+#open {
+    top: 0px;
+}
+#close {
+    bottom: 0px;
+}
